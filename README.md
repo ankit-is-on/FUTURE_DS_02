@@ -148,13 +148,16 @@ Open `dashboard/Dashboard.ipynb` for the interactive Plotly dashboard.
 
 ## 👩‍💻 Author
 
-**Purvi Jain**  
-Data Science & Analytics Intern  
-Future Interns Program
+**Ankit**  
+
+🎓 B.Tech in Artificial Intelligence
+
+🏫 Delhi Skill and Entrepreneurship University (DSEU)
 
 ---
 
 ## ⭐ Acknowledgement
 
 This project was completed as part of the **Future Interns Data Science & Analytics Internship Program**.  
-Website: [futureinterns.com](https://futureinterns.com) | LinkedIn: [Future Interns](https://www.linkedin.com/company/future-interns/)
+
+Special thanks to Future Interns for providing practical industry-oriented learning opportunities.
